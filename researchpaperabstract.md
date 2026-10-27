@@ -6,7 +6,7 @@ Social media corporations and the government itself have been questioned and cri
 On the other hand, the lack of action would only let the issue of online safety grow worse overtime, so some believe that the laws should be strict for the protection of everyone on the internet, especially for the most vulnerable.
 
 What this paper aims to do is understand how safe users of the Internet are with in the 21st century, what should be done to protect users, and whether, if at all there should be stricter laws placed.   
-
+*rewrite later, to focus on data protection
 # Questions  
 
 * What should be a proper responce in improving safety online?
