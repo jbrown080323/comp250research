@@ -14,3 +14,5 @@ Facebook, among other giants in it's position like Google, uses data as a way to
 ## The Problem with Data Collection
 
 "The absence of explicit consent for data collection is another significant issue. Users frequently lack a thorough understanding of the types of data being gathered, how they are being used, and who can access them. "
+
+The lack of consent in data collection
